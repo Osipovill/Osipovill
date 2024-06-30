@@ -52,9 +52,9 @@
 
 🔥 Немного легкого fast api c pytest: https://github.com/Osipovill/fast_api_easy_project <br>
 
-🔥 Немного легкого Django: https://github.com/Osipovill/Django_blog <br>
+🔥 Django: https://github.com/Osipovill/Django_blog <br>
 
-🔥 Легкий парсер на selenium: https://github.com/Osipovill/DNS_parser_monitors
+🔥 Парсер на selenium: https://github.com/Osipovill/DNS_parser_monitors
 
 
 
