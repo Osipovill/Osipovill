@@ -4,12 +4,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&random=false&width=500&lines=Love+to+learn+something+new+and+be+better...;..................110%25...................." alt="Typing SVG" /></a>
 <!--  -->
 </p>
+<h1 align="center"></h1>
 
 Я **Python Developer** с **1 годом и 7 месяцами** опыта работы. 
 
 Мой опыт работы включает в себя разработку backend-части на Django и FastApi, создание тестов с использованием PyTest, работу с SQL и базами данных (SQLite, MySQL, PostgreSQL, ClickHouse), а также работу с объектным хранилищем S3 Minio. 
 
 Кроме того, у меня есть опыт парсинга с использованием requests, BeautifulSoup4 и Selenium, асинхронного программирования на asyncio и создания Telegram-ботов с помощью PyTelegrambotApi и Aiogram. 
+
+Еще я умею пентестить OWASP уязвимости(из-за опыта работы в компании по кибербезопасности) :)
+
+<br>
 
 ## Навыки :muscle:
 
@@ -27,11 +32,29 @@
 
 <img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="ClickHouse" alt="ClickHouse" width="40px" src="https://clickhouse.com/images/media/ch_logo_yel_md_vert.svg">| <img title="S3 MinIo" alt="ClickHouse" width="20px"  src="https://min.io/resources/img/logo/MINIO_Bird.png">
 
-
 **Инструменты**
 
 <img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Postman" alt="Postman" width="40px" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000">
 |--|--|--|--|
+
+<br>
+
+И многое другое)
+
+
+<br>
+
+## Интересные проекты 🔥
+
+🔥 Проект по хакатону (заняли 6 место)(FastApi+PyTest+SQLITE+React+Docker): https://github.com/Osipovill/compiler_hackathon <br>
+
+🔥 SSH parser на PyQT: https://github.com/Osipovill/ssh_parser<br>
+
+🔥 Немного легкого fast api c pytest: https://github.com/Osipovill/fast_api_easy_project <br>
+
+🔥 Немного легкого Django: https://github.com/Osipovill/Django_blog <br>
+
+🔥 Легкий парсер на selenium: https://github.com/Osipovill/DNS_parser_monitors
 
 
 
