@@ -45,6 +45,7 @@
 <br>
 
 ## Интересные проекты 🔥
+🔥 Таск-менеджер(FastApi+PyTest+PostgreSQL+React+Redux и многое другое) - очень постарался над архитектурой бэка(она выстроена на SOLID принципах): https://github.com/Osipovill/Grapefruit_task_manager
 
 🔥 Проект по хакатону (заняли 6 место)(FastApi+PyTest+SQLITE+React+Docker): https://github.com/Osipovill/compiler_hackathon <br>
 
