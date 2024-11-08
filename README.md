@@ -51,7 +51,7 @@
 
 🔥 SSH parser на PyQT: https://github.com/Osipovill/ssh_parser<br>
 
-🔥 Flask-Vulnerable-App (приложение для изучения кибербезопасности) - Flask, Bootstrap, SOLID принципы, логирование, тестирование(покрытие 82%), dcoker: https://github.com/Osipovill/Flask-Vulnerable-App
+🔥 Flask-Vulnerable-App (приложение для изучения кибербезопасности) - Flask, Bootstrap, SOLID принципы, логирование, тестирование (покрытие 82%), dcoker: https://github.com/Osipovill/Flask-Vulnerable-App
 
 🔥 Немного легкого fast api c pytest: https://github.com/Osipovill/fast_api_easy_project <br>
 
