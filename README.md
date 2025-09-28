@@ -6,7 +6,7 @@
 </p>
 <h1 align="center"></h1>
 
-Я **Python Developer** с **1 годом и 7 месяцами** опыта работы. 
+Я **разработчик** с **3 годами** опыта работы. 
 
 Мой опыт работы включает в себя разработку backend-части на Django и FastApi, создание тестов с использованием PyTest, работу с SQL и базами данных (SQLite, MySQL, PostgreSQL, ClickHouse), а также работу с объектным хранилищем S3 Minio. 
 
@@ -52,6 +52,8 @@
 🔥 SSH parser на PyQT: https://github.com/Osipovill/ssh_parser<br>
 
 🔥 Flask-Vulnerable-App (приложение для изучения кибербезопасности) - Flask, Bootstrap, SOLID принципы, логирование, тестирование (покрытие 82%), dcoker: https://github.com/Osipovill/Flask-Vulnerable-App
+
+🔥 Architecture (Шлюз + 3 микросервиса + 5 баз данных) - [https://github.com/Osipovill/architecture](https://github.com/Osipovill/architecture)
 
 🔥 Немного легкого fast api c pytest: https://github.com/Osipovill/fast_api_easy_project <br>
 
